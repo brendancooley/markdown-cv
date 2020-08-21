@@ -1,34 +1,30 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: bcooley CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Brendan Cooley
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Contact
 
+Department of Politics<br>
+031 Corwin Hall<br>
+Princeton University<br>
+Princeton, NJ 08544<br>
+[bcooley@princeton.edu](mailto:bcooley@princeton.edu)
 
-## Currently
+### Website
 
-Standing on the shoulders of giants
+[brendancooley.com](brendancooley.com)
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Research Interests
+Political Economy of Conflict | International Trade | Military Coercion | Game Theory | Structural Estimation
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-present`
+__Princeton University__, Ph.D. Candidate, Politics
+
+- Graduate Student Fellow, Program in Quantitative and Analytical Political Science
 
 `June 1661 - now`
 __Trinity College, Cambridge__
@@ -58,7 +54,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +83,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
